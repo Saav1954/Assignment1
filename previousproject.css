@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family: "Inter Tight", sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color:#FEFBEA ;
+    background-image: linear-gradient(#fefbea 40% , black );
+    }
+.wrapper{
+        margin-top: 50px;
+    }
+.container{
+        padding: 20px;  
+    }
+.row{
+        display:flex;
+    }
+.about-me-column-one{ 
+        margin-left: 440px;
+        font-size: 32px;
+    }
+.sub-title{
+        margin-bottom: 10px;
+    }
+.copyright{
+        margin-top: 532px;
+        margin-left: 6px;
+        color: white;
+    }

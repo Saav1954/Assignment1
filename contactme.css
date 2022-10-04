@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family: "Inter Tight", sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color:#FEFBEA ;
+    background-image: linear-gradient(#fefbea 90%, black 10%);
+}
+.wrapper{
+    margin-top: 50px;
+}
+.container{
+    padding: 20px;  
+}
+.row{
+    display:flex;
+}
+.about-me-column-one{ 
+    margin-left: 14px;
+    font-size: 32px;
+}
+.sub-title{
+    margin-bottom: 10px;
+    margin-right:100px;
+   }
+.name{
+    font-size: 34px;
+    margin-left: 500px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.email{
+    font-size: 34px;
+    margin-left: 475px;
+    margin-bottom: 30px;
+    display:flex;
+}
+.comments{
+    font-size: 34px;
+    margin-left: 350px;
+    margin-top: 17px;
+    display:flex;
+}
+.textbox{
+    display: flex;
+}
+.textbox-2{
+    display: flex;
+}
+.copyright{
+    margin-top: 290px;
+    margin-left: 6px;
+    color: white;
+}
